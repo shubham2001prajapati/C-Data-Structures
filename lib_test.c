@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
+#include <conio.h>
 #include "lib_test.h"
 #include "lib_hash.h"
 #include "lib_ll.h"
